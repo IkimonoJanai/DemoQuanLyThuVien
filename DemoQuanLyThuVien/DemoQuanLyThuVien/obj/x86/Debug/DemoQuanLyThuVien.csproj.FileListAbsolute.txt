@@ -1,0 +1,11 @@
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\bin\Debug\DemoQuanLyThuVien.exe
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\bin\Debug\DemoQuanLyThuVien.pdb
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.FormLogin.resources
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.Properties.Resources.resources
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.csproj.GenerateResource.Cache
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.exe
+c:\users\beosama\documents\visual studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.pdb
+C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.Main.resources
+C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.frmSachA.resources
+C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.FormUsers.resources
+C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.FormAdmin.resources
