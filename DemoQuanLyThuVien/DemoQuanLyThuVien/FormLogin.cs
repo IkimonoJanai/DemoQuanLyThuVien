@@ -37,19 +37,23 @@ namespace DemoQuanLyThuVien
         private void btLogin_Click(object sender, EventArgs e)
         {
             // 1: admin 
-            // 2: users 
-
             FormUsers f = new FormUsers();
-            //if login success
-            this.Hide();
-            f.ShowDialog();
+            // 2: users 
+            FormAdmin fAd = new FormAdmin();
 
-            //if failed
-            this.Show();
-
-
-
-
+            //show neither admin or guest
+            if (rdAdmin.Checked == true)
+            {  
+                this.Hide();
+                fAd.ShowDialog();
+                this.Show();
+            }
+            else if(rdGuest.Checked == true)
+            {
+                this.Hide();
+                f.ShowDialog();
+                this.Show();
+            }
 
 
             ////string id, ncc, add;

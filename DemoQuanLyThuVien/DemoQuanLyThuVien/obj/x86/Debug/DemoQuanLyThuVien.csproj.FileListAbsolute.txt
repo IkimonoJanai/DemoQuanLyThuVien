@@ -9,3 +9,4 @@ C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQua
 C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.frmSachA.resources
 C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.FormUsers.resources
 C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.FormAdmin.resources
+C:\Users\Beosama\Documents\Visual Studio 2010\Projects\DemoQuanLyThuVien\DemoQuanLyThuVien\obj\x86\Debug\DemoQuanLyThuVien.csprojResolveAssemblyReference.cache

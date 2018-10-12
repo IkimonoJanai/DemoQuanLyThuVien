@@ -34,6 +34,8 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.btExit = new System.Windows.Forms.Button();
             this.btLogin = new System.Windows.Forms.Button();
+            this.rdAdmin = new System.Windows.Forms.RadioButton();
+            this.rdGuest = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // label1
@@ -88,12 +90,35 @@
             this.btLogin.UseVisualStyleBackColor = true;
             this.btLogin.Click += new System.EventHandler(this.btLogin_Click);
             // 
+            // rdAdmin
+            // 
+            this.rdAdmin.AutoSize = true;
+            this.rdAdmin.Checked = true;
+            this.rdAdmin.Location = new System.Drawing.Point(14, 94);
+            this.rdAdmin.Name = "rdAdmin";
+            this.rdAdmin.Size = new System.Drawing.Size(54, 17);
+            this.rdAdmin.TabIndex = 3;
+            this.rdAdmin.Text = "Admin";
+            this.rdAdmin.UseVisualStyleBackColor = true;
+            // 
+            // rdGuest
+            // 
+            this.rdGuest.AutoSize = true;
+            this.rdGuest.Location = new System.Drawing.Point(14, 117);
+            this.rdGuest.Name = "rdGuest";
+            this.rdGuest.Size = new System.Drawing.Size(56, 17);
+            this.rdGuest.TabIndex = 3;
+            this.rdGuest.Text = "Khách";
+            this.rdGuest.UseVisualStyleBackColor = true;
+            // 
             // FormLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(267, 147);
+            this.Controls.Add(this.rdGuest);
+            this.Controls.Add(this.rdAdmin);
             this.Controls.Add(this.btLogin);
             this.Controls.Add(this.btExit);
             this.Controls.Add(this.textBox1);
@@ -118,5 +143,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btExit;
         private System.Windows.Forms.Button btLogin;
+        private System.Windows.Forms.RadioButton rdAdmin;
+        private System.Windows.Forms.RadioButton rdGuest;
     }
 }
